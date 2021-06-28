@@ -1,4 +1,4 @@
-This project has been developed with C++ using Luhn Algorithm. This program is not limited to Credit Cards as it can be used to check the validity of Debit Cards, Travel Cards, Canadian Social Insurance Number, IMEI number of phone,  Israeli ID Numbers, South African ID Numbers, Greek Social Security Numbers (ΑΜΚΑ), and survey codes appearing on McDonald's, Taco Bell, and Tractor Supply Co. receipts.
+This project has been developed with C++ using Luhn Algorithm. This program is not limited to Credit Cards as it can be used to check the validity of Debit Cards, Travel Cards, Canadian Social Insurance Number, IMEI number of the phone,  Israeli ID Numbers, South African ID Numbers, Greek Social Security Numbers (ΑΜΚΑ), and survey codes appearing on McDonald's, Taco Bell, and Tractor Supply Co. receipts.
 
 The functionality of Luhn Algorithm is as follows:
 
